@@ -1,2 +1,2 @@
 # searcher
-You can make bing searches from command line
+You can make searches on bing from command line
